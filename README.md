@@ -1,1 +1,12 @@
 # CS-300-Portfolio
+
+What was the problem you were solving in the projects for this course?
+Answer: The primary problem addressed in the projects was efficient management and processing of data using appropriate data structures. In Project One, the challenge was to analyze and select data structures that optimize run-time and memory usage for various tasks. Project Two focused on implementing an algorithm to sort and display a list of courses in the Computer Science program in a specified order, demonstrating practical application of these concepts.
+How did you approach the problem? Consider why data structures are important to understand.
+Answer: The approach began with a theoretical analysis of potential data structures, considering their time and space complexities. This was followed by practical implementation and testing to see how these theories held up under real-world conditions. For sorting the courses, I used a merge sort algorithm known for its efficiency in handling large datasets.
+How did you overcome any roadblocks you encountered while going through the activities or project?
+Answer: One major roadblock in Project One was the initial underestimation of the complexity involved in handling large datasets. This was overcome by revisiting the choice of data structures and opting for more space-efficient ones like tries. In Project Two, debugging the sorting algorithm was challenging, particularly when dealing with edge cases. Regular code reviews and testing helped in identifying and fixing issues more systematically.
+How has your work on this project expanded your approach to designing software and developing programs?
+Answer: Working on these projects has broadened my understanding of how early decisions about data structures and algorithms can influence the entire software development lifecycle. It has made me more thoughtful about design choices, encouraging a more methodical approach to software architecture to ensure scalability and performance.
+How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+Answer: The projects emphasized the importance of clean, maintainable code. I've learned to better document my code and structure it in a way that other developers can easily understand and modify. The use of modular code has enhanced adaptability and made testing more straightforward. This practice not only helps in maintaining the code but also in adapting it to new requirements without extensive rewrites.
